@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Zuhaib Malik 👋
 
-<!--
-**Zuhaib-malik/Zuhaib-malik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An **Electronics Engineering student** | Passionate about **Embedded Systems**, **Machine Learning**, and building real-world tech.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+
+Embedded C • STM32 • Assembly (16-bit) • Python • React • MongoDB • Git • Multisim • Firebase • LangChain • Flutter
+
+---
+
+### 🚀 Projects
+
+- [🔌 Smart Energy Meter](https://github.com/ZuhaibMalik/smart-energy-meter)
+- [🍽️ Hostel Mess Management System](https://github.com/ZuhaibMalik/hostel-mess-management)
+- [⏰ Digital Clock (DLD Project)](https://github.com/ZuhaibMalik/digital-clock-dld)
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZuhaibMalik&show_icons=true&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuhaibMalik&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/zuhaibmalik/)
+- [Upwork](https://www.upwork.com/freelancers/~your-profile)
+- [Email](mailto:youremail@gmail.com)
