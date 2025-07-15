@@ -14,11 +14,12 @@
 
 ## 👨‍💻 About Me
 
-🎓 Final-year Electronics Engineering student with a passion for:
-- ⚡ Embedded Systems
-- 🧠 Machine Learning & Generative AI
-- 🌐 Full Stack Development (MERN)
-- 🛰️ Satellite Tech & Device Drivers
+🎓 Electrical & Electronics Engineering student with a passion for:
+- ⚡ Embedded Systems  
+- 🌐 IoT  
+- 🧠 Machine Learning & Generative AI  
+- 💻 Full Stack Web Development (MERN)  
+- 📱 Mobile App Development (Flutter)
 
 🔧 Currently building smart devices and full-stack platforms that combine **hardware and AI**!
 
