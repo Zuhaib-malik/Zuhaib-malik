@@ -120,7 +120,6 @@
 | [⚡ Smart Energy Meter](https://github.com/ZuhaibMalik/smart-energy-meter) | IoT-based smart metering system with billing and ML analytics |
 | [🍽️ Hostel Mess Management](https://github.com/ZuhaibMalik/hostel-mess-management) | MERN stack app for hostel food management and cook-student interaction |
 | [⏰ Digital Clock](https://github.com/ZuhaibMalik/digital-clock-dld) | Made using logic gates (DLD project) simulated in Multisim |
-| [🚀 Samosa Patti Machine](https://github.com/ZuhaibMalik/samosa-patti-machine) *(WIP)* | A hardware project to automate samosa wrapper making |
 
 ---
 
