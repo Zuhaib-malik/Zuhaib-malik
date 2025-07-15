@@ -26,7 +26,7 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" style="border-radius: 12px; margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stm32/stm32-original.svg" width="50" height="50" style="border-radius: 12px; margin: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/STMicroelectronics_logo.svg/512px-STMicroelectronics_logo.svg.png" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="border-radius: 12px; margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" style="border-radius: 12px; margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" style="border-radius: 12px; margin: 10px;" />
