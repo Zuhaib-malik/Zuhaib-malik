@@ -1,6 +1,9 @@
 <!-- Banner Image (optional, upload your own or use placeholder) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+Zuhaib+Malik!;Electronics+Engineer+%7C+Embedded+Systems+%7C+ML+Learner;Let%27s+Build+Something+Amazing+Together!&center=true&width=800&height=45&color=3DDC84&vCenter=true&pause=1000&size=25" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi!+I'm+Zuhaib+Malik;%F0%9F%8E%93+Electrical+%26+Electronics+Engineering+Student;%E2%9A%99%EF%B8%8F+Specialization+in+Electronics;%F0%9F%92%A1+Passionate+About+Embedded+Systems+Development+%26+PCB+Designing;%F0%9F%8C%90+IoT+%7C+%F0%9F%A4%96+Machine+Learning;%F0%9F%93%B1+Full+Stack+Mobile+App+Development;%F0%9F%92%BB+Full+Stack+Web+Development;%F0%9F%9A%80+Let's+Build+Something+Amazing+Together!&center=true&width=1000&height=45&color=3DDC84&vCenter=true&pause=1000&size=25" />
+
+
+
 </p>
 
 <p align="center">
