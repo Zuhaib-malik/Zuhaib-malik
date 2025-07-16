@@ -22,7 +22,11 @@
 - 📱 Mobile App Development (Flutter)
 
 🔧 Currently building smart devices and full-stack platforms that combine **hardware and AI**!
-🌐 Visit my portfolio: [https://zuhaib-portfolio-blue.vercel.app](https://zuhaib-portfolio-blue.vercel.app)
+## 📁 More About Me
+
+Check out my personal portfolio:  
+👉 [https://zuhaib-portfolio-blue.vercel.app](https://zuhaib-portfolio-blue.vercel.app)
+
 
 
 ---
