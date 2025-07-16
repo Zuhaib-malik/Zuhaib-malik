@@ -130,8 +130,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZuhaibMalik&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuhaibMalik&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zuhaib-malik&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhaib-malik&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
@@ -140,7 +140,7 @@
 
 <p align="center">
   <a href="mailto:mzuhaibmalik786@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/M zuhaib Malik/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/m-zuhaib-malik-111b34287/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Zuhaib-malik"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
