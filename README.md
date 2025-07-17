@@ -127,9 +127,8 @@ Check out my personal portfolio:
 
 | 💡 Project | 📝 Description |
 |-----------|----------------|
-| [⚡ Smart Energy Meter](https://github.com/ZuhaibMalik/smart-energy-meter) | IoT-based smart metering system with billing and ML analytics |
-| [🍽️ Hostel Mess Management](https://github.com/ZuhaibMalik/hostel-mess-management) | MERN stack app for hostel food management and cook-student interaction |
-| [⏰ Digital Clock](https://github.com/ZuhaibMalik/digital-clock-dld) | Made using logic gates (DLD project) simulated in Multisim |
+
+| [⏰ Digital Clock](https://github.com/Zuhaib-malik/DigitalClock) | Made using logic gates (DLD project) simulated in Proteus 8 |
 
 ---
 
