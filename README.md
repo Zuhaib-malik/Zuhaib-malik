@@ -25,7 +25,7 @@
 ## 📁 More About Me
 
 Check out my personal portfolio:  
-👉 [https://zuhaib-portfolio-blue.vercel.app](https://zuhaib-portfolio-blue.vercel.app)
+👉 [https://zuhaib-portfolio-blue.vercel.app](https://zuhaibworks.vercel.app)
 
 
 
